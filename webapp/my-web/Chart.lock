@@ -1,0 +1,6 @@
+dependencies:
+- name: my-db
+  repository: file://../my-db
+  version: 0.1.0
+digest: sha256:6fa5675d9d8aaa085d46bf8ae420d8e589a71e70612202048096ccac5812d825
+generated: "2021-04-17T15:50:51.0165923-05:00"
