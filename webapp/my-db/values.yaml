@@ -40,7 +40,7 @@ securityContext: {}
   # runAsUser: 1000
 
 service:
-  name: my-db
+  name: my-db #custom service name 
   type: ClusterIP
   port: 5432
   
